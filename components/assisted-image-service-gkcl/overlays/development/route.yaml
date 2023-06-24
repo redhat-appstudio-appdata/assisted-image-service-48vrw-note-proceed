@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: assisted-image-service-gkcl
     app.kubernetes.io/part-of: assisted-image-service
-  name: assisted-image-service-gkdfux
+  name: assisted-image-service-gktfeo
 spec:
   path: /
   port:
