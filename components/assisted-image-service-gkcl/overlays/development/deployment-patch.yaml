@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: assisted-image-service-gkcl
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
