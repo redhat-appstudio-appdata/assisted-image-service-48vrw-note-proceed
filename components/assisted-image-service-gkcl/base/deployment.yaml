@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: assisted-image-service-gkcl
     spec:
       containers:
-      - image: go-image:latest
+      - image: quay.io/redhat-user-workloads/rhtap-migration-tenant/assisted-image-service/assisted-image-service-gkcl@sha256:341edee2a839f0a8d413984961c98109c481e4b1bf1e772d7a0e460938d20399
         name: my-go
         ports:
         - containerPort: 8081
